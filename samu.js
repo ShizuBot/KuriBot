@@ -1093,7 +1093,7 @@ _Para prohibir los links de otros grupos_
     
     
 *Para que el bot entre a tu grupo, usa el siguiente comando:*
-${prefix}entrabot *(Link del grupo)*
+${prefix}papikachame*(Link del grupo)*
         
 🚧 *El siguiente comando es para crashear los grupos!! este comando es muy peligroso :) solo administradores pueden usarlo.* 🚧
     
